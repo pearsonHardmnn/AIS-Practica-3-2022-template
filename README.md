@@ -1,6 +1,6 @@
 # AIS-Practica-3-2022
 
-Autor(es): Michel Maes Bermejo y Francisco Gortázar Bellas
+Autor(es): Michel Morales  y Francisco Gortázar Bellas
 
 [Repositorio (CAMBIAR ENLACE)](https://github.com/URJC-AIS/AIS-Practica-3-2022-template)
 
